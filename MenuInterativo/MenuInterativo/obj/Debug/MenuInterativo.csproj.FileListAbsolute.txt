@@ -1,0 +1,7 @@
+C:\Users\crist\Documents\faculdade\EstruturaDados\DataSearchStatic\MenuInterativo\MenuInterativo\bin\Debug\MenuInterativo.exe.config
+C:\Users\crist\Documents\faculdade\EstruturaDados\DataSearchStatic\MenuInterativo\MenuInterativo\bin\Debug\MenuInterativo.exe
+C:\Users\crist\Documents\faculdade\EstruturaDados\DataSearchStatic\MenuInterativo\MenuInterativo\bin\Debug\MenuInterativo.pdb
+C:\Users\crist\Documents\faculdade\EstruturaDados\DataSearchStatic\MenuInterativo\MenuInterativo\obj\Debug\MenuInterativo.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\faculdade\EstruturaDados\DataSearchStatic\MenuInterativo\MenuInterativo\obj\Debug\MenuInterativo.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\faculdade\EstruturaDados\DataSearchStatic\MenuInterativo\MenuInterativo\obj\Debug\MenuInterativo.exe
+C:\Users\crist\Documents\faculdade\EstruturaDados\DataSearchStatic\MenuInterativo\MenuInterativo\obj\Debug\MenuInterativo.pdb
